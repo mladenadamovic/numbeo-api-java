@@ -1,6 +1,6 @@
 # Numbeo API Java Client
 
-A Java application that fetches and displays cost of living prices for cities using the [Numbeo API](https://www.numbeo.com/api/).
+A Java application that fetches and displays cost of living prices for cities using the [Numbeo API](https://www.numbeo.com/common/api.jsp).
 
 ## Features
 
@@ -18,7 +18,7 @@ A Java application that fetches and displays cost of living prices for cities us
 
 - Java 11 or higher
 - Maven 3.6 or higher
-- Numbeo API key (get one from [Numbeo API Documentation](https://www.numbeo.com/api/api_documentation.jsp))
+- Numbeo API key
 
 ## Installation
 
@@ -146,7 +146,7 @@ The application uses the Numbeo City Prices API endpoint:
 https://www.numbeo.com/api/city_prices?city={city}&country={country}&api_key={api_key}
 ```
 
-For more information, visit the [Numbeo API Documentation](https://www.numbeo.com/api/api_documentation.jsp).
+For more information, visit the [Numbeo API Documentation](https://www.numbeo.com/api/doc.jsp).
 
 ## Error Handling
 
@@ -218,8 +218,8 @@ This project is open source and available under the MIT License.
 
 For issues related to:
 - **This application**: Open an issue in this repository
-- **Numbeo API**: Contact [Numbeo Support](https://www.numbeo.com/common/contact.jsp)
-- **API pricing and limits**: Visit [Numbeo API Documentation](https://www.numbeo.com/api/)
+- **Numbeo API**: Contact [Numbeo Support](mailto:api@numbeo.com)
+- **API pricing and limits**: Visit [Numbeo API Documentation](https://www.numbeo.com/common/api.jsp)
 
 ## Author
 
